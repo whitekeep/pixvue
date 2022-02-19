@@ -1,6 +1,6 @@
 # pixvue
 
-This template should help get you started developing with Vue 3 in Vite.
+Фронт-енд часть приложения кастомного pixiv
 
 ## Рекомендуемые расширения
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
@@ -15,17 +15,13 @@ PIXVUE_BASE_URL
 https://a.nektools.ru/
 ```
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
 ## Установка зависимостей
 
 ```sh
 npm ci
 ```
 
-## Запуск hto-reload Dev приложения
+## Запуск hot-reload Dev приложения
 
 ```sh
 npm run dev
