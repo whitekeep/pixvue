@@ -2,27 +2,36 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
-
+## Рекомендуемые расширения
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+
+## Перед использованием
+Установить следующую пременную среды
+```
+PIXAPI_BASE_URL
+```
+Рекомендуемое значение:
+```
+https://a.nektools.ru/
+```
 
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Установка зависимостей
 
 ```sh
-npm install
+npm ci
 ```
 
-### Compile and Hot-Reload for Development
+## Запуск hto-reload Dev приложения
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Сборка
 
 ```sh
 npm run build
