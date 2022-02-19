@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Перед использованием
 Установить следующую пременную среды
 ```
-PIXAPI_BASE_URL
+PIXVUE_BASE_URL
 ```
 Рекомендуемое значение:
 ```
